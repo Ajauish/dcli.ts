@@ -1,7 +1,8 @@
 {
   "name": "@dcli-org/dcli",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "main": "dist/index.js",
+  "homepage": "https://github.com/iArthDev/DCLI",
   "scripts": {
     "start": "ts-node src/index.ts",
     "build": "tsc && shx rm -rf dist/templates && shx cp -r templates dist"
@@ -19,6 +20,10 @@
     "shx": "^0.3.2",
     "ts-node": "^7.0.1",
     "typescript": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iArthDev/DCLI.git"
   },
   "dependencies": {
     "ejs": "^2.6.1",
