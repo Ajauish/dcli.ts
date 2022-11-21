@@ -1,5 +1,5 @@
 {
-  "name": "@dcli-org/dcli",
+  "name": "dcli.js",
   "version": "0.0.1",
   "main": "dist/index.js",
   "homepage": "https://github.com/iArthDev/DCLI",
@@ -10,6 +10,12 @@
   "bin": {
     "dcli": "./dist/index.js"
   },
+  "keywords": [
+    "DCLI",
+    "DevelopersCLI",
+    "Developers",
+    "CLI"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@types/ejs": "^2.6.0",
@@ -26,6 +32,7 @@
     "url": "https://github.com/iArthDev/DCLI.git"
   },
   "dependencies": {
+    "@dcli-org/dcli": "^0.0.1",
     "ejs": "^2.6.1",
     "inquirer": "^6.2.0",
     "shelljs": "^0.8.2",

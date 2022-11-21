@@ -2,6 +2,16 @@
 # yarn lockfile v1
 
 
+"@dcli-org/dcli@^0.0.1":
+  "integrity" "sha512-UZNQatR6tiFucfw43aqo38xXNP81nttAF9QkWw5APJkxTWwSAyN9ipec6StKsWmMNiJi4hd7zhgYE0oDoAQigA=="
+  "resolved" "https://registry.npmjs.org/@dcli-org/dcli/-/dcli-0.0.1.tgz"
+  "version" "0.0.1"
+  dependencies:
+    "ejs" "^2.6.1"
+    "inquirer" "^6.2.0"
+    "shelljs" "^0.8.2"
+    "yargs" "^12.0.1"
+
 "@types/ejs@^2.6.0":
   "integrity" "sha512-1ISPltnwvcNU1VTxV0Zusv/nUViHO/S+TUIjiHlvXdmU6e9B/WpCWN6Ewz+fCB7sugdIe5lhsJbbZ6/6+dA1Gg=="
   "resolved" "https://registry.npmjs.org/@types/ejs/-/ejs-2.6.0.tgz"
