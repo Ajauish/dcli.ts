@@ -1,5 +1,5 @@
 {
-  "name": "@pongsatt/mycli",
+  "name": "@dcli-org/dcli",
   "version": "1.0.1",
   "main": "dist/index.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "tsc && shx rm -rf dist/templates && shx cp -r templates dist"
   },
   "bin": {
-    "mycli": "./dist/index.js"
+    "dcli": "./dist/index.js"
   },
   "license": "MIT",
   "devDependencies": {
