@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@dcli-org/dcli@^0.0.1":
+"dcli.ts^0.0.1":
   "integrity" "sha512-UZNQatR6tiFucfw43aqo38xXNP81nttAF9QkWw5APJkxTWwSAyN9ipec6StKsWmMNiJi4hd7zhgYE0oDoAQigA=="
-  "resolved" "https://registry.npmjs.org/@dcli-org/dcli/-/dcli-0.0.1.tgz"
+  "resolved" "https://registry.npmjs.org/dcli.ts/-/dcli-0.0.1.tgz"
   "version" "0.0.1"
   dependencies:
     "ejs" "^2.6.1"
