@@ -1,6 +1,6 @@
 {
   "name": "dcli.ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "description": "All-in-one TypeScript project generator for developers.",
   "homepage": "https://github.com/iArthDev/dcli.ts",
