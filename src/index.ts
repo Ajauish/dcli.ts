@@ -78,8 +78,8 @@ inquirer.prompt(QUESTIONS)
 
 function showMessage(options: CliOptions) {
   console.log('');
-  console.log(chalk.cyanBright(`> Successfully created ${options.projectName}.`));
-  console.log(chalk.cyanBright(`> Type cd ${options.projectName}`));
+  console.log(chalk.magentaBright(`> Successfully created ${options.projectName}.`));
+  console.log(chalk.magentaBright(`> Type cd ${options.projectName}`));
 
   const message = options.config.postMessage;
 
@@ -144,7 +144,7 @@ function postProcessNode(options: CliOptions) {
       return false;
     }
   } else {
-    console.log(chalk.red('> No yarn or npm found. Cannot run installation.'));
+    console.log(chalk.red('> 404 No yarn or npm found.'));
   }
 
   return true;
