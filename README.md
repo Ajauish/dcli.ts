@@ -1,3 +1,3 @@
-<img src="https://imgur.com/RBoeSIO" style="align-items: center">
+<img src="https://i.imgur.com/RBoeSIO.png" style="align-items: center">
 
 # About
