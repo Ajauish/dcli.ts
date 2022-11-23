@@ -13,7 +13,7 @@ const QUESTIONS = [
   {
     name: 'template',
     type: 'list',
-    message: '> Select a project to generate:',
+    message: '# Welcome to DCLI!(BETA)\n> Select a project to generate:',
     choices: CHOICES,
     when: () => !yargs.argv['template']
   },

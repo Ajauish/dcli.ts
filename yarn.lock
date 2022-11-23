@@ -278,16 +278,6 @@
     "shebang-command" "^1.2.0"
     "which" "^1.2.9"
 
-"dcli.ts@^0.0.3":
-  "integrity" "sha512-knth2Y+xzVWOrKIAjucOA8w8tGQuwW41FOoEoHW3rgYXUPZQoaZNKaP4fibvSHqRqG2M19eyKnAC6JA7uAJZTw=="
-  "resolved" "https://registry.npmjs.org/dcli.ts/-/dcli.ts-0.0.3.tgz"
-  "version" "0.0.3"
-  dependencies:
-    "ejs" "^2.6.1"
-    "inquirer" "^6.2.0"
-    "shelljs" "^0.8.2"
-    "yargs" "^12.0.1"
-
 "decamelize@^2.0.0":
   "integrity" "sha512-Ikpp5scV3MSYxY39ymh45ZLEecsTdv/Xj2CaQfI8RLMuwi7XvjX9H/fhraiSuU+C5w5NTDu4ZU72xNiZnurBPg=="
   "resolved" "https://registry.npmjs.org/decamelize/-/decamelize-2.0.0.tgz"

@@ -1,12 +1,12 @@
 {
   "name": "dcli.ts",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "main": "dist/index.js",
   "description": "All-in-one TypeScript project generator for developers.",
   "homepage": "https://github.com/iArthDev/DCLI",
   "scripts": {
     "start": "ts-node src/index.ts",
-    "build": "tsc && shx rm -rf dist/templates && shx cp -r templates dist"
+    "build": "tsc && shx rm -rf src/dist/templates && shx cp -r templates dist"
   },
   "bin": {
     "dcli": "./dist/index.js"
@@ -33,7 +33,6 @@
     "url": "https://github.com/iArthDev/DCLI.git"
   },
   "dependencies": {
-    "dcli.ts": "^0.0.3",
     "ejs": "^2.6.1",
     "inquirer": "^6.2.0",
     "shelljs": "^0.8.2",
