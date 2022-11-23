@@ -13,7 +13,6 @@
 Use latest version of node. Package MUST be installed global.
 ```
 npm i dcli.ts -g
-yarn add dcli.ts -g
 ```
 
 # Contributing
