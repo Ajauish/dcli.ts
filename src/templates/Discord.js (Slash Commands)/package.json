@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "@napi-rs/canvas": "^0.1.30",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3",
+  },
+  "name": "dcli",
+  "version": "1.0.0",
+  "main": "core.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
