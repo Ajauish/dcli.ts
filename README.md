@@ -23,4 +23,4 @@ You can add templates and send a pull request, please make sure that you know wh
 [Developer Profile @Discord](https://discord.com/users/852766506756210688)<br>
 
 # Help
-If you need any help with this package, you can contact [author](https://discord.com/users/852766506756210688) via Discord or join [Developers Support](https://discord.gg/YCpXNYZnbA)
+If you need any help with this package, you can contact [author](https://discord.com/users/852766506756210688) via Discord or join [DCLI on Discord](https://discord.gg/m6NnymKEWf)
